@@ -47,7 +47,7 @@ else :
 	image=Image.new(mod,size,color) #creates the 
 	image.save(nameof_file)
 ```
-> it just taking inptu from command line argument and produce the respective output
+> it just takes  input from command line argument and produce the respective output
 
 ---
 
